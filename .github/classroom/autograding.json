@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Simplify",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testSimplify ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Static Add",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testStaticAdd ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Static Subtract",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testStaticSubtract ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Static Multiply",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testStaticMultiply ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Static Divide",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testStaticDivide",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Non-Static Add",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testNonStaticAdd ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "NonStaticSubtract ",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testNonStaticSubtract ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "NonStaticMultiply ",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testNonStaticMultiply ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "NonStaticDivide",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testNonStaticDivide",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
