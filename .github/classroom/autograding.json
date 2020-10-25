@@ -49,46 +49,6 @@
       "comparison": "included",
       "timeout": 10,
       "points": 1
-    },
-    {
-      "name": "Non-Static Add",
-      "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testNonStaticAdd ",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 1
-    },
-    {
-      "name": "NonStaticSubtract ",
-      "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testNonStaticSubtract ",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 1
-    },
-    {
-      "name": "NonStaticMultiply ",
-      "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testNonStaticMultiply ",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 1
-    },
-    {
-      "name": "NonStaticDivide",
-      "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testNonStaticDivide",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 1
     }
   ]
 }
